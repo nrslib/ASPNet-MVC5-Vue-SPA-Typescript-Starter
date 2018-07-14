@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "vuewithdotnetframework",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "vue": "2.5.16",
+    "vue-class-component": "^6.0.0",
+    "vue-property-decorator": "^6.0.0",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "~5.2.0",
+    "css-loader": "^0.23.1",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.9.2",
+    "vue-loader": "^15.0.10",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3"
+  }
+}
